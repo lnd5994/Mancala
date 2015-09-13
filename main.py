@@ -1,5 +1,3 @@
-# Authors: Lauren DeNaut and Isabella Valdescruz
-# Date: 4-15-15
 # Defines a simple artificially intelligent player agent, alpha-beta pruning search algorithm and score function
 
 from random import *
